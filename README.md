@@ -1,4 +1,5 @@
-free paid software for students https://education.github.com
+free paid software for students : https://education.github.com
+free course for learning about ai models : https://www.activeloop.ai/resources/announcing-gen-ai-360-foundational-model-certification-in-collaboration-with-intel-towards-ai/
 free tools that are on github
 crypto trading bots , google account generator , airdrop bot  , youtube shorts creator
 
