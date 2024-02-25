@@ -1,4 +1,4 @@
-# crypto #free #google account generator #bot #trading #money #python #airdrop #gui #crpto-trading-bot #trading #trading-bot
+free paid software for students https://education.github.com
 free tools that are on github
 crypto trading bots , google account generator , airdrop bot  , youtube shorts creator
 
