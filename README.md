@@ -3,7 +3,7 @@ free tools that are on github
 crypto trading bots , google account generator , airdrop bot  , youtube shorts creator
 
 any suggestion are welcome😊
-if you like this project 
+if you like this project fork or star
 
 https://github.com/ak1rahunt3r/eth-airdrop-warmup
 
@@ -167,5 +167,5 @@ https://github.com/topics/airdrop-bot
 https://www.youtube.com/watch?v=GN-wt5_qjpc
 
 if you like this project consider supporting me 😊
-ethereum:0xF800e9aF25010Fb9553aE43Ff56079EE19e5BBb5
-
+ETH:0xF800e9aF25010Fb9553aE43Ff56079EE19e5BBb5
+help me buy a mac mini😊
