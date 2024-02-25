@@ -1,6 +1,7 @@
 # crypto #free #google account generator #bot #trading #money #python #airdrop #gui #crpto-trading-bot #trading #trading-bot
 free tools that are on github
 crypto trading bots , google account generator , airdrop bot  , youtube shorts creator
+
 any suggestion are welcome😊
 if you like this project 
 
@@ -165,6 +166,6 @@ https://github.com/topics/airdrop-bot
 
 https://www.youtube.com/watch?v=GN-wt5_qjpc
 
-if you like this project consider supporting me 
+if you like this project consider supporting me 😊
 ethereum:0xF800e9aF25010Fb9553aE43Ff56079EE19e5BBb5
 
